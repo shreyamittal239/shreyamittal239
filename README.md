@@ -27,37 +27,27 @@
 </div>
 
 ---
-
 ## 👩‍💻 About Me
 
-```cpp
-class ShreyaMittal {
-
-public:
-
-    string role = "Full Stack MERN Developer";
-
-    vector<string> currentlyLearning = {
-        "Advanced React",
-        "Backend Architecture",
-        "Data Structures & Algorithms",
-        "System Design Basics"
-    };
-
-    vector<string> techStack = {
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "JavaScript",
-        "C++"
-    };
-
-    string goal = "Become a Software Development Engineer";
-};
+```yaml
+Name: Shreya Mittal
+Role: Full Stack MERN Developer
+Location: India
+Learning:
+  - Advanced React
+  - Backend Architecture
+  - Data Structures & Algorithms
+  - System Design Basics
+Tech Stack:
+  - React
+  - Node.js
+  - Express
+  - MongoDB
+  - JavaScript
+  - C++
+Goal: Become a Software Development Engineer
 ```
 
----
 
 # 🛠 Tech Stack
 
@@ -141,15 +131,6 @@ A full-stack MERN application for managing daily expenses with secure authentica
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shreyamittal239&theme=tokyonight&no-frame=true&column=6"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
