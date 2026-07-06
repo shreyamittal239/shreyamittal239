@@ -140,15 +140,6 @@ A full-stack MERN application for managing daily expenses with secure authentica
 
 </div>
 
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=shreyamittal239&style=for-the-badge&color=blue"/>
-
-</div>
 
 ---
 
