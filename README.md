@@ -27,7 +27,7 @@
 </div>
 
 ---
-## 👩‍💻 About Me
+##  About Me
 
 ```yaml
 Name: Shreya Mittal
@@ -59,7 +59,7 @@ Goal: Become a Software Development Engineer
 
 ---
 
-# 📊 GitHub Dashboard
+#  GitHub Dashboard
 
 <div align="center">
 
@@ -89,45 +89,26 @@ Goal: Become a Software Development Engineer
 
 ---
 
-# 🚀 Featured Project
-
-## 💰 Expense Tracker
-
-A full-stack MERN application for managing daily expenses with secure authentication and dashboard analytics.
-
-### Features
-
-- JWT Authentication
-- Protected Routes
-- CRUD Operations
-- Dashboard Analytics
-- Responsive UI
-- REST APIs
-- MongoDB Database
-
-### Tech
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
 
 ---
 
-# 🌱 Currently Working On
+#  Currently Working On
 
-- 📚 Solving LeetCode consistently
-- ⚛️ Building MERN projects
-- 🚀 Improving Backend Architecture
-- 💡 Learning Clean Code practices
+- Solving LeetCode consistently
+-  Building MERN projects
+-  Improving Backend Architecture
+-  Learning Clean Code practices
 
 ---
 
-# 🎯 Goals
+#  Goals
 
-- ✅ Solve 300+ LeetCode Problems
-- ✅ Build 8+ Full Stack Projects
-- ✅ Master MERN Stack
-- ✅ Learn TypeScript
-- ✅ Learn Next.js
-- ✅ Contribute to Open Source
+-  Solve 300+ LeetCode Problems
+-  Build 8+ Full Stack Projects
+-  Master MERN Stack
+-  Learn TypeScript
+-  Learn Next.js
+-  Contribute to Open Source
 
 ---
 
