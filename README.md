@@ -101,17 +101,6 @@ Goal: Become a Software Development Engineer
 
 ---
 
-#  Goals
-
--  Solve 300+ LeetCode Problems
--  Build 8+ Full Stack Projects
--  Master MERN Stack
--  Learn TypeScript
--  Learn Next.js
--  Contribute to Open Source
-
----
-
 
 # 📈 Contribution Graph
 
